@@ -1,2 +1,0 @@
-# SkAI
-Future is here
